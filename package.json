@@ -11,5 +11,8 @@
     "url": "https://github.com/lilehaha/TsTrain.git"
   },
   "author": "PART I: Method decorators",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.4"
+  }
 }
