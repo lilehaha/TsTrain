@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.4.4"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
   }
 }
